@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Tower of God",
+    "genre": "Fantasy, Adventure",
+    "description": "A story about a boy who climbs a mysterious tower."
+  },
+  {
+    "title": "Solo Leveling",
+    "genre": "Fantasy, Action",
+    "description": "A hunter who levels up in a world filled with monsters."
+  }
+]
